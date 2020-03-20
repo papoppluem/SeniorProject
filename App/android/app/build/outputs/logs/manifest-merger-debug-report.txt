@@ -1,0 +1,220 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/pluem/.gradle/caches/transforms-2/files-2.1/11dcb23964bbfc8ef51ab2404af63c35/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r245459] /Users/pluem/.gradle/caches/transforms-2/files-2.1/66c5fba3a590fc8ea2187cb115d2d306/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/pluem/.gradle/caches/transforms-2/files-2.1/c1eeb08e26a68a6c6a4466d2f97c36e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/8e9197ccbcded5e01be0198c338dd863/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/146b44f4faf360ede2d636983f3330a8/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/5fa65a6ca1a5f70553bb5766e696c5d3/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/d433ced31a4c59fc2fc3a06d411d6c2a/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/3be5366ca67f785e3e23b8dce74c5a15/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/67786e9cb21d8ada1356b24e0b9de821/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/14bfbc71dfd38e2fdf24c8fe2e88d589/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/08639fcc1ae70e9b71651fd083ca734f/AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/9cf11149924cd9698f144228daa7be22/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/78886ffc22ca14013f70735be2ff45f0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/9ae4ed151e395b4f0f59da4846f69856/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/a136404b90b42da74ef58c930763c25b/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/pluem/.gradle/caches/transforms-2/files-2.1/c6676402a23ec614cde33830129ddc92/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/8a41582e1f2ba2560ae89cc110abad88/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/c56e19a4fcf1e23159a55afbce76a577/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/848d131530566e93fc17310ab5e37a77/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/9162a28064e744b688c13d986145ba6d/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/26a377d2037e982d56eccb80d45983ed/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/5a819091fefba643b0198a03626a50f8/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/0dc0512a1c947eabf942bbdfa19c2307/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/71a59d91d2ae3c8b98d09b762cffb46e/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.0.1] /Users/pluem/.gradle/caches/transforms-2/files-2.1/84d807c80a0e73aaa97852d4945ddd52/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/6961b335459601c336aa3e4f33889d23/AndroidManifest.xml:17:1-25:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/c6b6ddfcb920ba522cc365b7049e40d2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/de6d6c713ce087c4c18fa4a690da64de/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/7ba2f371842336033e48af44f9da8dda/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/637ef03e74da905afe94ca0fb85fa863/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/9e84f8b9ffd44184c7e1bddb7fb6bb03/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/0e10adf683d2e2c914869a72985f932a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/93d6bff71ffc9de3dd1edccffd71d0b7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/cd960131ce32c56a161a8c35803169d3/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/004357d8c4deac293803acbf98807d0f/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/8392a5a31397cdb1951221df7c128894/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/4cb189837da9dfe16615a86bca7c8338/AndroidManifest.xml:2:1-9:12
+INJECTED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+INJECTED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/debug/AndroidManifest.xml:2:1-8:12
+	package
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:2:3-20
+		INJECTED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:2:3-20
+		INJECTED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/debug/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/debug/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/debug/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/debug/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:6:5-24:19
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/pluem/.gradle/caches/transforms-2/files-2.1/11dcb23964bbfc8ef51ab2404af63c35/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/pluem/.gradle/caches/transforms-2/files-2.1/11dcb23964bbfc8ef51ab2404af63c35/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/08639fcc1ae70e9b71651fd083ca734f/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/08639fcc1ae70e9b71651fd083ca734f/AndroidManifest.xml:11:5-20
+MERGED from [androidx.core:core:1.0.1] /Users/pluem/.gradle/caches/transforms-2/files-2.1/84d807c80a0e73aaa97852d4945ddd52/AndroidManifest.xml:22:5-89
+MERGED from [androidx.core:core:1.0.1] /Users/pluem/.gradle/caches/transforms-2/files-2.1/84d807c80a0e73aaa97852d4945ddd52/AndroidManifest.xml:22:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/6961b335459601c336aa3e4f33889d23/AndroidManifest.xml:22:5-23:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/6961b335459601c336aa3e4f33889d23/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.0.1] /Users/pluem/.gradle/caches/transforms-2/files-2.1/84d807c80a0e73aaa97852d4945ddd52/AndroidManifest.xml:22:18-86
+	android:label
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:8:7-39
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:8:7-39
+	tools:ignore
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/debug/AndroidManifest.xml:7:75-114
+	android:roundIcon
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:10:7-52
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:10:7-52
+	tools:targetApi
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/debug/AndroidManifest.xml:7:54-74
+	android:icon
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:9:7-41
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:9:7-41
+	android:allowBackup
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:11:7-34
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:12:7-38
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:usesCleartextTraffic
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/debug/AndroidManifest.xml:7:18-53
+	android:name
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:7:7-38
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:7:7-38
+activity#com.app.MainActivity
+ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:23:7-84
+	android:name
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/pluem/.gradle/caches/transforms-2/files-2.1/11dcb23964bbfc8ef51ab2404af63c35/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.61.5] /Users/pluem/.gradle/caches/transforms-2/files-2.1/11dcb23964bbfc8ef51ab2404af63c35/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/pluem/.gradle/caches/transforms-2/files-2.1/66c5fba3a590fc8ea2187cb115d2d306/AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] /Users/pluem/.gradle/caches/transforms-2/files-2.1/66c5fba3a590fc8ea2187cb115d2d306/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/pluem/.gradle/caches/transforms-2/files-2.1/c1eeb08e26a68a6c6a4466d2f97c36e8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.0.2] /Users/pluem/.gradle/caches/transforms-2/files-2.1/c1eeb08e26a68a6c6a4466d2f97c36e8/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/8e9197ccbcded5e01be0198c338dd863/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/8e9197ccbcded5e01be0198c338dd863/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/146b44f4faf360ede2d636983f3330a8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/146b44f4faf360ede2d636983f3330a8/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/5fa65a6ca1a5f70553bb5766e696c5d3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/5fa65a6ca1a5f70553bb5766e696c5d3/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/d433ced31a4c59fc2fc3a06d411d6c2a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/d433ced31a4c59fc2fc3a06d411d6c2a/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/3be5366ca67f785e3e23b8dce74c5a15/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/3be5366ca67f785e3e23b8dce74c5a15/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/67786e9cb21d8ada1356b24e0b9de821/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/67786e9cb21d8ada1356b24e0b9de821/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/14bfbc71dfd38e2fdf24c8fe2e88d589/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/14bfbc71dfd38e2fdf24c8fe2e88d589/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/08639fcc1ae70e9b71651fd083ca734f/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.6.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/08639fcc1ae70e9b71651fd083ca734f/AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/9cf11149924cd9698f144228daa7be22/AndroidManifest.xml:20:5-44
+MERGED from [androidx.fragment:fragment:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/9cf11149924cd9698f144228daa7be22/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/78886ffc22ca14013f70735be2ff45f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/78886ffc22ca14013f70735be2ff45f0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/9ae4ed151e395b4f0f59da4846f69856/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/9ae4ed151e395b4f0f59da4846f69856/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/a136404b90b42da74ef58c930763c25b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/a136404b90b42da74ef58c930763c25b/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/pluem/.gradle/caches/transforms-2/files-2.1/c6676402a23ec614cde33830129ddc92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable:1.0.1] /Users/pluem/.gradle/caches/transforms-2/files-2.1/c6676402a23ec614cde33830129ddc92/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/8a41582e1f2ba2560ae89cc110abad88/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/8a41582e1f2ba2560ae89cc110abad88/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/c56e19a4fcf1e23159a55afbce76a577/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/c56e19a4fcf1e23159a55afbce76a577/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/848d131530566e93fc17310ab5e37a77/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/848d131530566e93fc17310ab5e37a77/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/9162a28064e744b688c13d986145ba6d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/9162a28064e744b688c13d986145ba6d/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/26a377d2037e982d56eccb80d45983ed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/26a377d2037e982d56eccb80d45983ed/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/5a819091fefba643b0198a03626a50f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/5a819091fefba643b0198a03626a50f8/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/0dc0512a1c947eabf942bbdfa19c2307/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/0dc0512a1c947eabf942bbdfa19c2307/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/71a59d91d2ae3c8b98d09b762cffb46e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/71a59d91d2ae3c8b98d09b762cffb46e/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/pluem/.gradle/caches/transforms-2/files-2.1/84d807c80a0e73aaa97852d4945ddd52/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.0.1] /Users/pluem/.gradle/caches/transforms-2/files-2.1/84d807c80a0e73aaa97852d4945ddd52/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/6961b335459601c336aa3e4f33889d23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/6961b335459601c336aa3e4f33889d23/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/c6b6ddfcb920ba522cc365b7049e40d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/c6b6ddfcb920ba522cc365b7049e40d2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/de6d6c713ce087c4c18fa4a690da64de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/de6d6c713ce087c4c18fa4a690da64de/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/7ba2f371842336033e48af44f9da8dda/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/7ba2f371842336033e48af44f9da8dda/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/637ef03e74da905afe94ca0fb85fa863/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/637ef03e74da905afe94ca0fb85fa863/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/9e84f8b9ffd44184c7e1bddb7fb6bb03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/9e84f8b9ffd44184c7e1bddb7fb6bb03/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/0e10adf683d2e2c914869a72985f932a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/0e10adf683d2e2c914869a72985f932a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/93d6bff71ffc9de3dd1edccffd71d0b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/93d6bff71ffc9de3dd1edccffd71d0b7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/cd960131ce32c56a161a8c35803169d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/cd960131ce32c56a161a8c35803169d3/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/004357d8c4deac293803acbf98807d0f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/004357d8c4deac293803acbf98807d0f/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/8392a5a31397cdb1951221df7c128894/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/8392a5a31397cdb1951221df7c128894/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/4cb189837da9dfe16615a86bca7c8338/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] /Users/pluem/.gradle/caches/transforms-2/files-2.1/4cb189837da9dfe16615a86bca7c8338/AndroidManifest.xml:5:5-7:41
+INJECTED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/debug/AndroidManifest.xml
+INJECTED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/debug/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/debug/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/debug/AndroidManifest.xml
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/debug/AndroidManifest.xml:5:5-77
+	android:name
+		ADDED from /Users/pluem/Desktop/SeniorProject/App/android/app/src/debug/AndroidManifest.xml:5:22-75
